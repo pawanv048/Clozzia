@@ -3,7 +3,7 @@ import { createDrawerNavigator } from '@react-navigation/drawer';
 import MainStackNavigator from '../navigation/HomeNavigator';
 import DrawerContent from '@react-navigation/drawer';
 import { icons } from '../constants';
-import AntDesign from 'react-native-vector-icons/AntDesign'
+import AntDesign from 'react-native-vector-icons/AntDesign';
 
 const RightDrawer = createDrawerNavigator();
 

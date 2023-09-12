@@ -8,7 +8,7 @@ export const dark = {
   // USE IT WHEN NEED TO CHANGE THEME
   export const standard = {
     theme: "standard",
-    base1: "#ffffff",
+    base1: "#F5F5F7",
     base2: "#f5f5ff",
     base3: "#ebebff",
     base4: "#e0e0ff",
